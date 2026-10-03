@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { 
   Send, MailOpen, MousePointerClick, CheckCircle, Smartphone, AlertCircle, AlertTriangle, Play,
-  ChevronRight, RefreshCw, BarChart3, Search, Filter, X
+  ChevronRight, RefreshCw, BarChart3, Search, Filter, X, Users
 } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
