@@ -1,0 +1,55 @@
+{
+  "datasetVersion": "1.0",
+  "customers": [
+    {
+      "customerId": "C031",
+      "profile": {
+        "name": "Abdur Rahman",
+        "age": 28,
+        "tenureDays": 420
+      },
+      "account": {
+        "status": "ACTIVE"
+      },
+      "transactions": [
+        {
+          "transactionId": "TX1001",
+          "date": "2026-09-28",
+          "type": "recharge",
+          "amount": 300,
+          "status": "SUCCESS"
+        },
+        {
+          "transactionId": "TX1002",
+          "date": "2026-09-25",
+          "type": "merchant_payment",
+          "amount": 1500,
+          "status": "SUCCESS"
+        }
+      ],
+      "campaignHistory": [
+        {
+          "campaignEventId": "CE1001",
+          "campaignId": "CMP001",
+          "date": "2026-09-20",
+          "offer": "Recharge Cashback",
+          "exposed": true,
+          "responded": true
+        }
+      ]
+    },
+    {
+      "customerId": "C032",
+      "profile": {
+        "name": "Nusrat Jahan",
+        "age": 32,
+        "tenureDays": 120
+      },
+      "account": {
+        "status": "ACTIVE"
+      },
+      "transactions": [],
+      "campaignHistory": []
+    }
+  ]
+}
