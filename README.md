@@ -5,7 +5,7 @@
 ![Upay ImpactIQ Banner](public/logo.png)
 
 ### **Next-Generation Growth & Campaign Intelligence for Mobile Financial Services (MFS)**
-*Developed for BUP Hackathon — Track 04: Growth & Campaign Intelligence*
+*Developed for UPAY Hackathon — Track 04: Growth & Campaign Intelligence*
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.3-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
